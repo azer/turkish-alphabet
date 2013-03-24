@@ -1,0 +1,12 @@
+{
+  "name": "turkish-alphabet",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:azer\/turkish-alphabet.git",
+    "type": "git"
+  },
+  "author": "azer",
+  "license": "BSD"
+}
